@@ -1,3 +1,3 @@
 # React + Tailwind
 
-<h1>Password Generator App</h1>
+<h4>Password Generator App</h4>
